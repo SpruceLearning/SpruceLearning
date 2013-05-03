@@ -33,6 +33,9 @@
     font-size: 24px;
 }
 
+
+
+
 #launcher{
     font-family: arial,'Microsoft YaHei','Helvetica Neue',sans-serif,'Hiragino Sans GB',Tahoma;
 }
@@ -54,14 +57,14 @@
 .textured-background{
     background-image: url(../img/demin-texture.jpg);
     background-size: auto;
-    background-repeat: repeat repeat;
+    background-repeat: repeat ;
     background-color: rgb(231, 230, 228);
 }
 
 .textured-background-creampaper{
     background-image: url(../img/creampaper.png);
     background-size: auto;
-    background-repeat: repeat repeat;
+    background-repeat: repeat ;
 }
 
 
