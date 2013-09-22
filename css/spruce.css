@@ -25,13 +25,18 @@ body {
 .navbar-wrapper {
   position: absolute;
   top: 0;
-  left: 0;
+  /*this is pretty much a hack. I hate it but it works*/
+  left: -30px;
   right: 0;
   z-index: 20;
 }
 
 .navbar-brand {
     font-size:200% !important;
+}
+.navbar-brand.active{
+    color: #ffffff;
+    background-color: transparent;
 }
 
 .navbar-nav li {
