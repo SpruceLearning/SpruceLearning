@@ -1,4 +1,0 @@
-sprucehome
-==========
-
-spruceHome
